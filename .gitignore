@@ -1,18 +1,20 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+<div class="frame">
+ <div class="bodyy">
+   <div class="left-arm"></div>
+   <div class="left-eye">
+     <div class="inner-one">
+       <div class="inner-two">
+        <div class="inner-three"></div> 
+       </div>
+     </div>
+   </div>
+   
+   <div class="right-eye"></div>
+   <div class="left-dimple"></div>
+    <div class="right-dimple"></div>
+    <div class="smile"></div>
+   <div class="right-arm"></div>
+   <div class="left-foot"></div>
+    <div class="right-foot"></div>
+   </div>
+</div>
